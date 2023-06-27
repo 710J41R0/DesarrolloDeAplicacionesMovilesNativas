@@ -1,4 +1,5 @@
 # DesarrolloDeAplicacionesMovilesNativas
+## Listado de aplicaciones
 1.	Operaciones
 2.	Login con shared preferences
 3.	Lista con imágenes (frutas)
@@ -9,3 +10,5 @@
 8.	Conversor de temperaturas
 9.	Retrofit (API's)
 10.	Acceso a datos SQLite
+
+### Nota: Este es un recurso en caso de que, por políticas de privacidad de GoogleDrive, no se pueda visualizar el contenido de ciertos archivos o no se encuentren disponibles.
