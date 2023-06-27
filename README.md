@@ -7,5 +7,5 @@
 6.	Lista de frases de Chuck Nurris
 7.	Frases con bases de datos (Ejemplo Bases de datos)
 8.	Conversor de temperaturas
-9.	API’s (hint usar la de json…, usar video de YT)
+9.	Retrofit (API's)
 10.	Acceso a datos SQLite
