@@ -10,5 +10,6 @@
 8.	Conversor de temperaturas
 9.	Retrofit (API's)
 10.	Acceso a datos SQLite
-#### Constancia curso Red Hat: Certificate of Attendance (DO180-4.10) (1).pdf
+#### Proyecto final
+##### Constancia curso Red Hat: Certificate of Attendance (DO180-4.10) (1).pdf
 ### Nota: Este es un recurso en caso de que, por políticas de privacidad de GoogleDrive, no se pueda visualizar el contenido de ciertos archivos o no se encuentren disponibles.
